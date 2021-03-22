@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611013139880",
+    "project_id": "interintel-4ed8a",
+    "storage_bucket": "interintel-4ed8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611013139880:android:bc1cffe772516612d4919d",
+        "android_client_info": {
+          "package_name": "com.example.interintel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611013139880-cqkhe2q9fp9chgdvkluarqk7ljbnjata.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWSLE2wWSBuSGyX33NdVfx0k4idu3xKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611013139880-cqkhe2q9fp9chgdvkluarqk7ljbnjata.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
